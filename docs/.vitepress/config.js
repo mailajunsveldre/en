@@ -54,7 +54,7 @@ function getFrontEndSidebar() {
 			]
 		},
 		{
-			text: 'Javascript',
+			text: 'JavasSript',
 			children: [
 				{ text: 'Syntax', link: '/frontend/js/syntax' },
 				{ text: 'DOM manipulation', link: '/frontend/js/dom' },
