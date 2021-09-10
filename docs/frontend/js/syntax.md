@@ -26,10 +26,15 @@ If you want to let users interact with a web page like pushing buttons, draging 
 
 Before you start adding interactivity to your page it's good to get a glance what tools you have in your toolbox. Acutally there aren't too many.
 
-You have **variables** for storing data.
+**Variables** are used for storing data. If we create a variable we give it a name and value. Good name is descriptive so we can tell what kind of value is stored into variable just by looking at the name.
+By name we can later access the value.
+Maybe you already assumed by it's name that we can change the value of variable if needed.     
+- [JavaScript Variables](https://www.w3schools.com/js/js_variables.asp) - 👈 article and exampls in W3Schools 
+
+**Data types**
 
 The best way to get to know JavaScript is complete one of the many interactive courses online.
 
-I recommend freeCodeCamp [*JavaScript Algorithms and Data Structures*](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) curriculum and from there please complete **Basic JavaScript** chapter.
+I recommend freeCodeCamp [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) curriculum and from there please complete **Basic JavaScript** chapter.
 
 Of course I encourage you to dig deeper and also check out other chapters.
