@@ -86,8 +86,7 @@ function getIntroSidebar() {
 		{
 			text: 'The Ergonomics',
 			children: [
-				{ text: 'This', link: '/intro/ergonomics/this' },
-				{ text: 'That', link: '/intro/ergonomics/that' },
+				{ text: 'Health risks and how to avoid them', link: '/intro/ergonomics/health-risks' },
 			]
 		},
 		{
