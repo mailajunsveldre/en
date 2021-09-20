@@ -172,13 +172,27 @@ function getGraphicsSidebar() {
 
 function get3dSidebar() {
   return [
-	{ text: "3D graphics", link: "/3d/" },
+    { text: "3D graphics", link: "/3d/" },
     {
       text: "Introduction to 3D-graphics",
-	  link: "/3d/intro/",
       children: [
+        { text: "Introduction", link: "/3d/intro/" },
         { text: "A brief history", link: "/3d/intro/history" },
         { text: "Software", link: "/3d/intro/software" },
+      ],
+    },
+    {
+      text: "Basics of Blender",
+      children: [
+        { text: "User interface", link: "/3d/blender/ui" },
+        { text: "3D modelling", link: "/3d/blender/modelling" },
+        { text: "materials", link: "/3d/blender/materials" },
+        { text: "textures", link: "/3d/blender/textures" },
+        { text: "lighting", link: "/3d/blender/lighting" },
+        { text: "camera", link: "/3d/blender/camera" },
+        { text: "rendering", link: "/3d/blender/rendering" },
+        { text: "animation", link: "/3d/blender/animation"},
+        { text: "simulations", link: "/3d/blender/simulations"},
       ],
     },
   ];
