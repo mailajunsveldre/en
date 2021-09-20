@@ -10,8 +10,6 @@ A common object type used in a 3D scene is a mesh. Blender comes with a number o
 
 To add mesh primitives, press <kbd>Shift</kbd> <kbd>A</kbd>, or find Add ‣ Mesh in the top left menu in the 3d viewport panel. To set the options of the newly created object, open the Adjust Last Operation panel (on the bottom left of the 3d viewport, closed by default), which appears when the object is created.
 
-![](images/operator.png)
-
 These options vary greatly, depending on the primitive object added. Keep in mind that, as the name suggests, the Last Operation panel can be accessed only as long as no other action is taken in the meantime.
 
 ### EXERCISE:
