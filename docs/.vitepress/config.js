@@ -68,39 +68,38 @@ function getFrontEndSidebar() {
 }
 
 function getIntroSidebar() {
-  return [
-    { text: "Before we start", link: "/intro/" },
-    {
-      text: "The Introduction",
-      children: [
-        { text: "What is Interactive Graphics?", link: "/intro/intro/what" },
-        { text: "History of IG", link: "/intro/intro/history" },
-      ],
-    },
-    {
-      text: "The Process",
-      children: [
-        { text: "Project management", link: "/intro/project/project-management" },
-        { text: "Setting up the project", link: "/intro/project/setup" },
-        { text: "Design process", link: "/intro/project/design-process" },
-      ],
-    },
-    {
-      text: "The Ergonomics",
-      children: [
-        { text: "This", link: "/intro/ergonomics/this" },
-        { text: "That", link: "/intro/ergonomics/that" },
-      ],
-    },
-    {
-      text: "The Community",
-      children: [
-        { text: "Inspiration, know-how, communication", link: "/intro/community/inspiration" },
-        { text: "Tools", link: "/intro/community/tools" },
-        { text: "Resources", link: "/intro/community/resources" },
-      ],
-    },
-  ];
+	return [
+		{ text: 'Before we start', link: '/intro/' },
+		{
+			text: 'The Introduction',
+			children: [
+				{ text: 'What is Interactive Graphics?', link: '/intro/intro/what' },
+				{ text: 'History of IG', link: '/intro/intro/history' }
+			]
+		},
+		{
+			text: 'The Process',
+			children: [
+				{ text: 'Project management', link: '/intro/project/project-management' },
+				{ text: 'Setting up the project', link: '/intro/project/setup' },
+				{ text: 'Design process', link: '/intro/project/design-process' },
+			]
+		},
+		{
+			text: 'The Ergonomics',
+			children: [
+				{ text: 'Health risks and how to avoid them', link: '/intro/ergonomics/health-risks' },
+			]
+		},
+		{
+			text: 'The Community',
+			children: [
+				{ text: 'Inspiration, know-how, communication', link: '/intro/community/inspiration' },
+				{ text: 'Tools', link: '/intro/community/tools' },
+				{ text: 'Resources', link: '/intro/community/resources' },
+			]
+		},
+	]
 }
 
 function getDesignSidebar() {
