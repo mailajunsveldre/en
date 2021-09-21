@@ -1,0 +1,1 @@
+import{o as a,c as t,b as n}from"./app.b2f90af8.js";const s='{"title":"Markup","description":"","frontmatter":{},"relativePath":"frontend/html/syntax.md","lastUpdated":1632222340013}',e={},o=n('',7);e.render=function(n,s,e,p,c,l){return a(),t("div",null,[o])};export default e;export{s as __pageData};

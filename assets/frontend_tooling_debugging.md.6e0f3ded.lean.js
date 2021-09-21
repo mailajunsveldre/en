@@ -1,0 +1,1 @@
+import{o as e,c as r,b as o}from"./app.b2f90af8.js";const t='{"title":"Debugging","description":"","frontmatter":{},"relativePath":"frontend/tooling/debugging.md","lastUpdated":1632222340013}',a={},n=o('',8);a.render=function(o,t,a,s,i,g){return e(),r("div",null,[n])};export default a;export{t as __pageData};

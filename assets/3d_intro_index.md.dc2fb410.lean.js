@@ -1,0 +1,1 @@
+import{o as e,c as a,b as r}from"./app.b2f90af8.js";const t='{"title":"Introduction to 3d graphics","description":"","frontmatter":{},"headers":[{"level":2,"title":"NB!","slug":"nb"}],"relativePath":"3d/intro/index.md","lastUpdated":1632222340013}',o={},n=r('',5);o.render=function(r,t,o,i,s,d){return e(),a("div",null,[n])};export default o;export{t as __pageData};

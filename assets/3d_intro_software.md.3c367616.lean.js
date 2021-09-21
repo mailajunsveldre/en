@@ -1,0 +1,1 @@
+import{o as e,c as r,b as a}from"./app.b2f90af8.js";const i='{"title":"3d graphics software","description":"","frontmatter":{},"relativePath":"3d/intro/software.md","lastUpdated":1632222340013}',t={},o=a('',13);t.render=function(a,i,t,l,s,n){return e(),r("div",null,[o])};export default t;export{i as __pageData};
