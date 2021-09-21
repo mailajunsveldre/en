@@ -22,7 +22,7 @@ module.exports = {
 };
 
 function getFrontEndSidebar() {
-  return [
+	return [
     { text: "Introduction", link: "/frontend/" },
     {
       text: "Tooling",
@@ -64,7 +64,7 @@ function getFrontEndSidebar() {
         { text: "Frameworks", link: "/frontend/js/frameworks" },
       ],
     },
-  ];
+	];
 }
 
 function getIntroSidebar() {
