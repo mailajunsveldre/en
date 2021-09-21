@@ -3,7 +3,12 @@ module.exports = {
   title: "Interactive Graphics | Erasmus E-Design",
   description: "Study materials for the course",
   themeConfig: {
-    // lastUpdated: true,
+    lastUpdated: true,
+    repo: 'edesign-erasmus/en',
+    editLinks: true,
+    editLinkText: 'Edit this page in GitHub',
+    docsBranch: 'main',
+    docsDir: 'docs',
     nav: [
       { text: "01.Introduction", link: "/intro/", activeMatch: "^/intro/" },
       { text: "02.Front End", link: "/frontend/", activeMatch: "^/frontend/" },
