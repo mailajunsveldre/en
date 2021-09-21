@@ -11,8 +11,8 @@ module.exports = {
     docsDir: 'docs',
     nav: [
       { text: "01.Introduction", link: "/intro/", activeMatch: "^/intro/" },
-      { text: "02.Front End", link: "/frontend/", activeMatch: "^/frontend/" },
-      { text: "03.Design", link: "/design/", activeMatch: "^/design/" },
+      { text: "02.Design", link: "/design/", activeMatch: "^/design/" },
+      { text: "03.Front End", link: "/frontend/", activeMatch: "^/frontend/" },
       { text: "04.Graphics", link: "/graphics/", activeMatch: "^/graphics/" },
       { text: "05.3D", link: "/3d/", activeMatch: "^/3d/" },
     ],
