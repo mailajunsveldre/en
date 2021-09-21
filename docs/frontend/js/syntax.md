@@ -45,12 +45,15 @@ Think about web shop and thousand of items there. To display different items we 
 
 **Complex data structures** like arrays, lists, objects and different collections come into play if we want to store more than one bit of data. We already talked about variables and data types. Think about our previous example with web shop. We need a collection of variables to store our shopping items.
 Actually every item has diffrent properties and there are collection of items. And to display our items we use array items and loop over array.
-- [Array](https) - 👈 article and examples in JavaScript.info 
+- [Arrays](https://javascript.info/array) - 👈 article and examples in JavaScript.info 
+- [Array methods](https://javascript.info/array-methods) - 👈 article and examples in JavaScript.info 
+- [Objects](https://javascript.info/object-basics) - 👈 article and examples in JavaScript.info 
+
 
 **Functions** are also useful for automating our work. In programming there come up cases where we use same set of commands in different part of code. Same time we don't want double our manual work - that's the whole point of coding. We can describe a little part of our code in a function, give it a name and call a function from different places when needed.
 Second point with functions is that when it happnes that we need to make a change in that particular part of code we don't have to do it in many places but just on place where function is defined.
 Functions help also structure our code and make it more readable.
-- [Functions](https) - 👈 article and examples in JavaScript.info 
+- [Functions](https://javascript.info/function-basics) - 👈 article and examples in JavaScript.info 
 
 
 The best way to get to know JavaScript is complete one of the many interactive courses online.
