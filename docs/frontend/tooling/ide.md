@@ -9,5 +9,5 @@ Main features of IDE are:
 - **Version control** - we address version control in next topic but this feature allows automate the process of sharing code with your team.
 - **Debugging** - sometimes we need to slow down the execution of program - follow instructions step by step and see what are the values of variables in certain state of program.
 
-Currently one of the most popular IDEs is **Visual Studio Code**. I recommend a Youtube video which should give you overview of VS Code but also general idea of IDE's features.
+Currently one of the most popular IDE is **Visual Studio Code**. I recommend a Youtube video which should give you overview of VS Code but also general idea of IDE's features.
 [Visual Studio Code Crash Course](https://www.youtube.com/watch?v=WPqXP_kLzpo)
