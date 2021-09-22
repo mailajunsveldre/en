@@ -13,3 +13,5 @@ Since 1996 the HTML specifications have been maintained, with input from commerc
 In 1999 HTML4 was published and was the main spec for webpages for almost 15 years. 
 
 In October 2014 HTML5 was finalized and this is the version that is used today for building websites and the one that we will be learning in this course.
+
+You can just add new information
